@@ -1,35 +1,26 @@
 # Site
-name: "Mediumish"
-title: "Mediumish"
-description: "Jekyll template, Medium styled, free for bloggers."
+name: "Krisztián Papp"
+title: "Krisztián Papp"
+description: "Sharing lessons, insights, and stories from my journey as a developer."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: /
+baseurl: "" 
 google_analytics: ''
-disqus: ''
+disqus: 'kpappdev'
 mailchimp-list: ''
 include: ["_pages"]
 permalink: /:title/
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
-  john:
-    name: John
-    display_name: John    
-    avatar: 'assets/images/avatar.png'
-    gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
+  kpapp:
+    name: Krisztian Papp
+    display_name: tacsiazuma
+    gravatar: d800d91eb063cfa17311352c718f19d0
+    email: me@kpapp.dev
+    web: https://kpapp.dev
+    twitter: https://twitter.com/tacsiazuma
+    description: "Krisztián is a principal engineer at Diligent with over a decade of hands-on experience in creating and maintaining software. Currently he is leading the movement of a diverse set of products towards the cloud. He is the founder of the Letscode.hu community, creating a supportive environment where individuals can thrive, share their knowledge, and collectively contribute to the advancement of technology."
 
 # Plugins
 plugins:
@@ -67,6 +58,6 @@ adsense-data-ad-client: "ca-pub-3412143450191416"
 adsense-data-ad-slot: "1363087678"
 
 # Lazy Images ("enabled" or "disabled")
-lazyimages: "disabled"
+lazyimages: "enabled"
 
 exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
