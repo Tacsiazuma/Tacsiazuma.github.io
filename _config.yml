@@ -14,13 +14,13 @@ permalink: /:title/
 # Authors
 authors:
   kpapp:
-    name: Krisztian Papp
-    display_name: tacsiazuma
+    name: kpapp
+    display_name: Krisztián Papp
     gravatar: d800d91eb063cfa17311352c718f19d0
     email: me@kpapp.dev
     web: https://kpapp.dev
     twitter: https://twitter.com/tacsiazuma
-    description: "Krisztián is a principal engineer at Diligent with over a decade of hands-on experience in creating and maintaining software. Currently he is leading the movement of a diverse set of products towards the cloud. He is the founder of the Letscode.hu community, creating a supportive environment where individuals can thrive, share their knowledge, and collectively contribute to the advancement of technology."
+    description: "Krisztián is a principal engineer at Diligent with over a decade of hands-on experience in creating and maintaining software. He is the founder of the Letscode.hu community, creating a supportive environment where individuals can thrive, share their knowledge, and collectively contribute to the advancement of technology."
 
 # Plugins
 plugins:
