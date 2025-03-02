@@ -76,6 +76,14 @@
                 </li>
 
                 <li class="nav-item">
+                <a class="nav-link" href="{{ site.baseurl }}/services">Services</a>
+                </li>
+
+                <li class="nav-item mr-4 mb-2 mb-md-0">
+                <a class="nav-link btn btn-success btn-sm text-white d-block d-md-inline-block" href="{{ site.baseurl }}/contact" style="padding: 0.25rem 1rem; font-size: 0.9rem; margin-top: 0.2rem;">Speed Up Your Growth</a>
+                </li>
+
+                <li class="nav-item">
                 <a class="nav-link" href="{{ site.baseurl }}/talks">Talks</a>
                 </li>
 
@@ -99,10 +107,12 @@
 <!-- Site Title
 ================================================== -->
 <div class="mainheading">
+    {% if page.title == "Home" %}
     <h1 class="sitetitle">{{ site.name }}</h1>
     <p class="lead">
         {{ site.description }}
     </p>
+    {% endif %}
 </div>
 
 <!-- Content
@@ -144,11 +154,8 @@
 <footer class="footer">
     <div class="container">
         <div class="row">
-            <div class="col-md-6 col-sm-6 text-center text-lg-left">
+            <div class="col-md-12 text-center">
                 Copyright © {{ site.time | date: "%Y" }} {{ site.name }} 
-            </div>
-            <div class="col-md-6 col-sm-6 text-center text-lg-right">    
-                <a target="_blank" href="https://www.wowthemes.net/mediumish-free-jekyll-template/">Mediumish Jekyll Theme</a> by WowThemes.net
             </div>
         </div>
     </div>
