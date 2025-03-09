@@ -5,6 +5,7 @@ author: kpapp
 image: assets/images/fast.jpg
 featured: true
 hidden: false
+excerpt: "Developers like to move fast. Agile frameworks even reward speed, reinforcing the drive to ship quickly. Missing a sprint goal due to delays can be frustrating. When a team member is stuck, we rush to unblock them because the longer they struggle, the more frustrated they become—and that’s when quality starts to suffer."
 categories:
     - Devops
     - Agile

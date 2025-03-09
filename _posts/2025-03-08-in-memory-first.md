@@ -5,6 +5,7 @@ author: kpapp
 image: assets/images/in-memory.jpg
 featured: true
 hidden: false
+excerpt: "What I've noticed during my career is that people love databases. It fascinates us how some bright minds overcame all the quirks of the OS and hardware and made sure that our data will be safe and consistent. I'm also amazed by how simple concepts like LSM trees and SSTables power modern databases."
 categories:
     - Testing
     - Agile
