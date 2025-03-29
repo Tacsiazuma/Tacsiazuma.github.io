@@ -4,7 +4,7 @@ title: The Synergy of C4, Facades, and TDD
 author: kpapp
 categories: tdd c4 model components testing
 image: assets/images/components.jpg
-featured: true
+featured: false
 hidden: false
 ---
 
