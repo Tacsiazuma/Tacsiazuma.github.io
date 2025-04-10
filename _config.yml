@@ -2,8 +2,8 @@
 name: "Krisztián Papp"
 title: "Krisztián Papp"
 description: "Sharing lessons, insights, and stories from my journey as a developer."
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+logo: 'assets/images/logo_small.png'
+favicon: 'assets/images/favicon.ico'
 baseurl: "" 
 google_analytics: ''
 disqus: 'kpapp-dev'
